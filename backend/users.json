@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1757930884641",
+    "username": "Subhojeet",
+    "phone": "9835194489",
+    "email": "subhojeetchanda18@gmail.com",
+    "createdAt": "2025-09-15T10:08:04.641Z"
+  },
+  {
+    "id": "1757947312314",
+    "username": "subho",
+    "phone": "9835194480",
+    "email": "subho@gmail.com",
+    "createdAt": "2025-09-15T14:41:52.314Z"
+  },
+  {
+    "id": "1758049250208",
+    "username": "abc",
+    "phone": "1234567890",
+    "email": "abc@gmail.com",
+    "createdAt": "2025-09-16T19:00:50.209Z"
+  },
+  {
+    "id": "1758054092959",
+    "username": "techspace",
+    "phone": "0987654321",
+    "email": "techspace769@gmail.com",
+    "createdAt": "2025-09-16T20:21:32.959Z"
+  },
+  {
+    "id": "1758085708882",
+    "username": "ccc",
+    "phone": "1231231231",
+    "email": "ccc@gmail.com",
+    "createdAt": "2025-09-17T05:08:28.882Z"
+  }
+]

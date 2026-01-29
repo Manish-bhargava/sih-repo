@@ -1,0 +1,67 @@
+[
+  {
+    "id": "1757958528366",
+    "username": "Subhojeet",
+    "email": "subhojeetchanda18@gmail.com",
+    "password": "$2b$10$bjtgEmuJyJQoTNusA3g/Ku/T3svH5BKnS10eXzueyT1XiPVXIpdxa",
+    "dateOfBirth": "2003-02-10",
+    "aadhaarNumber": "123456789000",
+    "phone": "9835194489",
+    "createdAt": "2025-09-15T17:48:48.366Z"
+  },
+  {
+    "id": "1757963770614",
+    "username": "Subhojeet123",
+    "email": "subhojeetchanda1@gmail.com",
+    "password": "$2b$10$kFH69In/nsbOTngzwj6qR.hH19kBrU1vWblxhWjuFHv3pT9QxcVwi",
+    "dateOfBirth": "2003-02-10",
+    "aadhaarNumber": "123456789001",
+    "phone": "9835194481",
+    "pathType": "normal",
+    "createdAt": "2025-09-15T19:16:10.614Z"
+  },
+  {
+    "id": "1758049352915",
+    "username": "pqr",
+    "email": "pqr@gmail.com",
+    "password": "$2b$10$nHJhlfhNn89gtGxz.3GmIuMmq9P1CJqeNPFT92mMa1HOvdBtqiumi",
+    "dateOfBirth": "2005-04-18",
+    "aadhaarNumber": "123456789012",
+    "phone": "1234567890",
+    "pathType": "normal",
+    "createdAt": "2025-09-16T19:02:32.915Z"
+  },
+  {
+    "id": "1758054215524",
+    "username": "techspace",
+    "email": "techspace769@gmail.com",
+    "password": "$2b$10$Vgn7jiPqLIoEXfjChMS9Ze/xCX4Fu63zKk6RwUMf2Msst1teVAsOK",
+    "dateOfBirth": "2003-10-10",
+    "aadhaarNumber": "123456789009",
+    "phone": "9835194488",
+    "pathType": "normal",
+    "createdAt": "2025-09-16T20:23:35.524Z"
+  },
+  {
+    "id": "1758085839426",
+    "username": "cccc",
+    "email": "cccc@gmail.com",
+    "password": "$2b$10$lBvujTe3zUu/9nLWvGghVOR5s4ti9y0k1Zxiry4REd.0bhVb2WBb6",
+    "dateOfBirth": "2001-02-10",
+    "aadhaarNumber": "101010101010",
+    "phone": "1231231231",
+    "pathType": "normal",
+    "createdAt": "2025-09-17T05:10:39.426Z"
+  },
+  {
+    "id": "1769626257481",
+    "username": "manish",
+    "email": "manish@gmail.com",
+    "password": "$2b$10$P9r/lrIwFolxlXJw/D3e8eObLMiLhtqFE7XO9rbQV4CaHT65QEmLC",
+    "dateOfBirth": "2024-10-23",
+    "aadhaarNumber": "123456789090",
+    "phone": "9929379286",
+    "pathType": "normal",
+    "createdAt": "2026-01-28T18:50:57.481Z"
+  }
+]
